@@ -1,9 +1,9 @@
 # Ryzen-7-3700x-Opencore-EFI
 
-OS:
+# OS:
 Mac Os BigSur 
 
-PC CONFIG:
+# PC CONFIG:
 RYZEN 7 3700X <br/>
 MSI B450 TOMAHAWK MAX 1<br/>
 RX 580 ASROCK<br/>
