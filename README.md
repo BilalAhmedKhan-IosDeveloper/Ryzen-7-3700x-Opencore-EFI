@@ -1,6 +1,6 @@
 # Ryzen-7-3700x-Opencore-EFI
 
-OS:
+# OS:
 Mac Os BigSur 
 
 PC CONFIG:
