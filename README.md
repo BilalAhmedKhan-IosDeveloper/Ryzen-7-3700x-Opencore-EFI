@@ -31,5 +31,5 @@ https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisit
 https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point
 
 # Making Installer:
-MacOS - https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html#downloading-macos-modern-os
+MacOS - https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html#downloading-macos-modern-os <br/>
 Windows - https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html
